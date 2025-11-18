@@ -1,16 +1,25 @@
-## Hi there 👋
+## Olá! Eu sou o Joaquim Augusto 👋
 
-<!--
-**joaquimpimenta/joaquimpimenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Aluno no CentroIweg  
+- ☕ Estudando Java  
+- 💻 Apaixonado por tecnologia e desenvolvimento
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Minhas estatísticas no GitHub
+
+![Joaquim's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquimpimenta&show_icons=true&theme=chartreuse-dark)
+
+---
+
+### 🏆 Ranking & Atividade
+
+![GitHub Rank](https://github-readme-stats.vercel.app/api?username=joaquimpimenta&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide=contribs)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=joaquimpimenta&theme=chartreuse-dark)
+
+---
+
+### 🔤 Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimpimenta&layout=compact&theme=chartreuse-dark)
