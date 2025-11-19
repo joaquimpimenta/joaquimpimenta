@@ -46,7 +46,7 @@
 <p>
   <img src="https://img.shields.io/badge/Java-Intermediário-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-Aprendendo-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Estudante-CentroIweg-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Estudante-CentroWeg-orange?style=for-the-badge" />
 </p>
 
 ---
