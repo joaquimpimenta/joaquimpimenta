@@ -1,56 +1,15 @@
-## 👋 Olá! Eu sou o Joaquim Augusto  
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Java+em+evolução;Apaixonado+por+tecnologia+e+inovação" />
-</p>
-
----
-
-### 🧑‍💻 Sobre mim
-- 🎓 Estudante no **CentroIweg**
-- 💻 Atualmente estudando **Java, Git/GitHub e lógica de programação**
-- 🚀 Objetivo: me tornar desenvolvedor Back-end
-- 📚 Sempre aprendendo algo novo todos os dias
-
----
-
-## 🧰 Tecnologias e Ferramentas
-
-<p align="left">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</p>
-
----
-
-## 📊 Minhas estatísticas no GitHub
-
-<div align="center">
-  
-  ![Joaquim's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquimpimenta&show_icons=true&theme=chartreuse-dark)
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=joaquimpimenta&theme=chartreuse-dark)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimpimenta&layout=compact&theme=chartreuse-dark)
-
-</div>
-
----
+# 💫 About Me:
+Oi meu nome é Joaquim Augusto
 
 
-## 🏅 Badges & Conquistas
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=joaquimpimenta&theme=nord&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=joaquimpimenta&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimpimenta&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p>
-  <img src="https://img.shields.io/badge/Java-Intermediário-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-Aprendendo-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Estudante-CentroWeg-orange?style=for-the-badge" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=joaquimpimenta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-### 🐍 Meu gráfico de contribuições
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
